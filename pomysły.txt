@@ -1,0 +1,1 @@
+Dodanie Singletona z Juice
